@@ -1,0 +1,106 @@
+body{
+	background-color: white;
+	text-align: center;
+	color: #ADD8E6;
+	margin: auto;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+article{
+	border: solid;
+
+	background-image: url("images/chalkboard.jpg");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+
+	padding-top: .5%;
+	padding-bottom: 3%;
+	margin: 2% auto 5% auto;
+	border-style: solid;
+	border-radius: 4px;
+	border-width: 40px;
+
+	border-image: url("images/wood.jpg") 30 round;
+	background-color: white;
+	width: 70%;
+/* 
+	height: 23em;
+ */
+	color: white;
+	font-family: Chalkboard, ‘Comic Sans’, sans-serif;
+	font-size: 150%;
+
+
+}
+
+
+section{
+	padding: 1% 8% 1% 8%;
+
+}
+
+#bullets li{
+	display: list-item;
+	list-style-type: circle;
+	text-align: left;
+	margin-left: 5%;
+}
+
+article a{
+	color: white;
+}
+
+.quote{
+	text-align: left;
+}
+#team{
+	display: inline-block;
+	height: 9em;
+	width: 14em;
+}
+
+#unpluggedLogo{
+	width: 50%;
+}
+
+h1{
+color: #00CE49;
+font-size: 165%;
+}
+
+h2{
+color: white;
+font-size: 130%;
+}
+
+.student img{
+	width: auto;
+	height: 300px;
+	border: solid;
+	border-width: 0.5em;
+	border-color: white;
+}
+
+.student p{
+	margin-left: 2em;
+}
+
+.student {
+	display: flex;
+	flex-direction: row;
+	margin: 2em 2em 2em 2em;
+}
+
+#jerry{
+  transform: rotate(90deg);
+	width: auto;
+	height: 200px;
+	margin-left: -50px;
+	margin-top: 2em;
+	margin-bottom: 2em;
+	margin-right: -2em;
+
+}
+

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>CS@Mines On Tour</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="CS@Mines On Tour">
+
+	<link rel="stylesheet" type="text/css" href="templateStyle.css">
+	<link rel="stylesheet" type="text/css" href="mainStyle.css">
+</head>
+
+<body>
+
+	<!-- Nav Menu -->
+	<div id="bar">
+		<img id="top" src="images/CSlogo.png">
+		<ul>
+			<li> <a href="index.html">Home</a></li>
+			<li> <a href="visit.html">Request a Visit</a></li>
+			<li> <a href="theTeam.html">The Team</a></li>
+		</ul>
+
+		<ul>
+			<li class="menu">
+				<a class="menubtn">Programs</a>
+					<div class="submenu">
+						<ul>
+							<a href="highSchool.html">High School</a>
+							<a href="middleSchool.html">Middle School</a>
+							<a href="elementarySchool.html">Elementary School</a>
+						</ul>
+					</div>
+			</li>
+			<li> <a href="reviews.html">Reviews</a></li>
+		</ul>
+	</div>
+
+	<div id="mainArea">
+
+		<div id="leftBar">
+			<div id="leftItem">
+				<a id="leftBorder" href="visitPrep.html"><img id="leftIcon" src="images/apple.png"></a>
+				<a id="leftBorder" href="visitPrep.html"><h1 class="centerText">Visit Preparation</h1></a>
+			</div>
+		</div>
+
+	<article>
+	<?php
+		include "leftMenuHS.php";
+	?>
+		<section>
+		<h2>Our On Tour Team will engage and inform your students with a presentation that covers the following: </h1>
+			<ol id="bullets">
+				<li>Discuss career options in computing</li>
+				<li>Share real undergraduate classroom experience and typical projects completed</li>
+				<li>Provide examples of real undergraduate projects completed at Mines</li>
+				<li>Address stereotypes in computer science</li>
+			</ol>
+		</section>
+	</article>
+	</div>
+
+	<section id="footer">
+		<p class="footer">Team Lead: Jordan Card <br> jcard@mymail.mines.edu </p>
+		<h1 class="footer">CS@Mines On Tour</h1>
+		<img id="minesImage" src="images/minesLogo.png" class="footer">
+	</section>
+
+</body>
+
+</html>
