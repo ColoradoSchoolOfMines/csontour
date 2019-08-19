@@ -41,7 +41,7 @@ section{
 
 }
 
-#bullets li{
+.bullets li{
 	display: list-item;
 	list-style-type: circle;
 	text-align: left;
@@ -63,6 +63,11 @@ article a{
 
 #unpluggedLogo{
 	width: 50%;
+}
+
+#h2toh1{ /*Need it to make it ADA compliant */
+	color: #00CE49;
+	font-size: 165%;
 }
 
 h1{
