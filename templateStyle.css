@@ -26,6 +26,11 @@
 
 /*Title bar style*/
 #bar{
+    border-radius: 7px;
+	border-image: url("images/wood.jpg") 30 round;
+	border-width: 8px;
+	border-style: solid;
+    background-image: url("images/chalkboard.jpg");
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -79,8 +84,9 @@ li.menu {
 }
 
 
-.footer{
-	color: black;
+/* Footer */
+#footer{
+	color: red;
 	font-weight: bold;
 
 }
@@ -88,7 +94,6 @@ li.menu {
 #footer{
 	display: flex;
 	justify-content: space-around;
-	background-color: #00CE49;
 	margin-left: auto;
 	margin-right: auto;
 	margin-bottom: 15px;
@@ -99,7 +104,8 @@ li.menu {
 
 #minesImage{
 	margin-top: 1em;
-	height: 3.5em;
+	height: 100%;
+	width: 80%;
 	background-color: white;
 }
 
@@ -132,5 +138,6 @@ li.menu {
     	top: 40%;
     	left: 15%;
 	color: white;
+
 	font-size: 60%;
 }

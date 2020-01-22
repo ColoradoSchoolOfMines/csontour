@@ -1,0 +1,503 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <title>CS@Mines On Tour</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="CS@Mines On Tour">
+
+        <link rel="stylesheet" type="text/css" href="templateStyle.css">
+        <link rel="stylesheet" type="text/css" href="mainStyle.css">
+   	<link rel="stylesheet" type="text/css" href="theTeam.css">
+</head>
+
+<body>
+    <!-- Nav Menu -->
+    <?php include 'onTourHeader.php' ?>
+
+	<div class="team-section">
+    			<h1>Our Team</h1>
+    			<span class="border"></span>
+    		<div class="ps">
+    			
+    			<a href="#mCox"> <img class="personPicture" src="images/morgan.jpeg" alt="morgan"></a>
+    			<a href="#jSchmerge"> <img class="personPicture" src="images/jSchmerge.png" alt="Jordan"> </a>
+    			<a href="#aEstrada"> <img class="personPicture" src="images/aEstrada.jpg" alt="Adrian"> </a>
+    			<a href="#aLangfield"> <img class="personPicture" src="images/aLangfield.jpg" alt="aLangfield"> </a>
+    			<a href="#aLam"> <img class="personPicture" src="images/aLam.jpg" alt="aLam"> </a>
+    			<a href="#aGonzalez"> <img class="personPicture" src="images/aGonzalez.jpg" alt="aGonzalez"> </a>
+    			<a href="#aDarling"> <img class="personPicture" src="images/aDarling.jpg" alt="aDarling"> </a>
+    			<a href="#bLanham"> <img class="personPicture" src="images/bLanham.jpg" alt="bLanham"> </a>
+    			<a href="#cDumas"> <img class="personPicture" src="images/cDumas.jpg" alt="cDumas"> </a>
+    			<a href="#cPrather"> <img class="personPicture" src="images/cPrather.jpg" alt="cPrather"> </a>
+    			<a href="#cRodriguez"> <img class="personPicture" src="images/cRodriguez.jpg" alt="cRodriguez"> </a>
+    			<a href="#cHaberland"> <img class="personPicture" src="images/cHaberland.jpg" alt="cHaberland"> </a>
+    			<a href="#dZhou"> <img class="personPicture" src="images/morgan.jpeg" alt="dZhou"> </a>
+    			<a href="#dOchoumare"> <img class="personPicture" src="images/dOchoumare.jpg" alt="dOchoumare"> </a>
+    			<a href="#dNorris"> <img class="personPicture" src="images/dNorris.jpg" alt="dNorris"> </a>
+    			<a href="#hVinton"> <img class="personPicture" src="images/hVinton.jpg" alt="hVinton"> </a>
+    			<a href="#iSantos"> <img class="personPicture" src="images/iSantos.png" alt="iSantos"> </a>
+    			<a href="#jSerrano"> <img class="personPicture" src="images/jSerrano.png" alt="jSerrano"> </a>
+    			<a href="#jTehranchi"> <img class="personPicture" src="images/jTehranchi.jpg" alt="jTehranchi"> </a>
+    			<a href="#kLewis"> <img class="personPicture" src="images/kLewis.jpg" alt="kLewis"> </a>
+    			<a href="#kMoran"> <img class="personPicture" src="images/kMoran.jpg" alt="kMoran"> </a>
+    			<a href="#lOrtega"> <img class="personPicture" src="images/lOrtega.jpg" alt="lOrtega"> </a>
+    			<a href="#nWoodward"> <img class="personPicture" src="images/nWoodward.jpg" alt="nWoodward"> </a>
+    			<a href="#oAitchedji"> <img class="personPicture" src="images/oAitchedji.jpg" alt="oAitchedji"> </a>
+    			<a href="#qWhite"> <img class="personPicture" src="images/qWhite.jpg" alt="qWhite"> </a>
+    			<a href="#rHigashi"> <img class="personPicture" src="images/rHigashi.jpg" alt="rHigashi"> </a>
+    			<a href="#sJo"> <img class="personPicture" src="images/sJo.jpg" alt="sJo"> </a>
+    			<a href="#sThoemmes"> <img class="personPicture" src="images/sThoemmes.jpg" alt="sThoemmes"> </a>
+    			
+    		</div>
+    		
+    		<div class="stdDescription" id="mCox">
+    		    <span class="name">Morgan Cox: Program Coordinator</span>
+    		    <span class="border"></span>
+    		     <p> I am an Junior studying computer science at Mines. I am excited to help kids learn about 
+                                    computer science and how it effects our everyday lives! In my free time I love 
+                                    working on projects, hanging out with friends and playing sports!</p>  
+    		</div>
+    		
+    			<div class="stdDescription" id="jSchmerge">
+    		        <span class="name">Jordan Schmerge</span>
+    		        <span class="border"></span>
+        		      <p>
+        		           I am an instructor for CSCI-101 and a PhD student at Mines. I did my undergrad and master's 
+        		           here as well and I work in the area of high performance computing. I have all kinds of weird 
+        		           interests and hobbies outside of computer science, including collecting model trains and old 
+        		           American currency, playing and following professional sports (including e-sports!), reading, and 
+        		           learning about all the cool things going on in the world outside our field.
+                        </p>
+    		</div>
+    		
+    		<div class="stdDescription" id="aEstrada">
+    		        <span class="name">Adrian Grey Estrada</span>
+    		        <span class="border"></span>
+        		      <p>
+        		            Hello! I am a senior in
+                          Computer Science at the Colorado School of Mines.I am
+                          often keeping myself busy with my studies, playing whatever
+                          video game piques my interest, or listening to music. I enjoy
+                          spending time with my friends and the memories that come with
+                          it. I enjoy Mines for the sense of community I've gotten, as
+                          well as the challenging, but highly enjoyable classes. I look
+                          forward to contributing to PATHS and the field of Computer
+                          Science this upcoming year!
+                        </p>
+    		</div>
+    		
+    		
+    			<div class="stdDescription" id="aLangfield">
+    		        <span class="name">Alexander Langfield</span>
+    		        <span class="border"></span>
+        		        <p>
+        		            I am currently majoring in
+                          computer science and putting an emphasis on cyber
+                          security. Outside of computer science I try to live a rich
+                          life in the mountains. When I’m not pounding away at my
+                          keyboard, I’m climbing or backpacking. I continuously strive
+                          to find the work life balance without sacrificing too much of
+                          either. As Mines students we can all relate to the difficulty
+                          of this task.
+                        </p>
+    		    </div>
+    		
+    			<div class="stdDescription" id="aLam">
+    		        <span class="name">Amanda Lam</span>
+    		        <span class="border"></span>
+    		            <p>
+        		            I am a freshman at Mines this
+                          year. I am a Colorado native and graduated from D'Evelyn High
+                          School. I am so excited to be majoring in computer science at
+                          Mines. I've always wanted to help get more students interested
+                          in computer science and the PATHS program will allow me to do
+                          just that.
+                        </p>
+    		    </div>
+    		
+    		
+    			<div class="stdDescription" id="aGonzalez">
+        		    <span class="name">Amira Gonzalez</span>
+        		    <span class="border"></span>
+            		    <p>
+            		      I am a junior in
+                          Computer Science at Colorado School of Mines. I was born in
+                          Chile and moved to Lakewood, Colorado, when I was 9
+                          years-old. In my free time I enjoy experimenting with all
+                          sorts of art mediums, from drawing to photography to face
+                          painting, as well as video games, soccer, archery, and
+                          more. Despite having a variety of different interests I
+                          decided to study Computer Science because of how applicable
+                          the field is. I wish to apply technology in areas which lack
+                          or could benefit from it, for instance, mental health. I want
+                          to not only watch as innovative solutions are developed but
+                          hopefully create those developments myself while encouraging
+                          others to do the same.
+                        </p>
+    		    </div>
+    	
+    		
+    			<div class="stdDescription" id="aDarling">
+        		    <span class="name">Andrew Darling</span>
+        		    <span class="border"></span>
+            		    <p>
+            		      I'm a second year
+                          PATHS Scholar at Mines. College at the Colorado School of Mines has
+                          served as an excellent opportunity for me to not only explore
+                          my interest in computer science with classmates and friends
+                          sharing similar passions but also to think critically about
+                          how I'd like to impact the world. It hasn't been easy but
+                          Mines provides the resources to help me tackle issues I'm
+                          passionate about addressing. Two issues I'd like to address
+                          include America's suicide epidemic and outdated approach to
+                          learning.
+                        </p>
+    		    </div>
+    		
+    		
+    			<div class="stdDescription" id="bLanham">
+        		    <span class="name">Boden Lanham</span>
+        		    <span class="border"></span>
+            		    <p>
+            		      I am a Colorado native and a
+                          Sophomore at Colorado School of Mines pursuing my major in
+                          Computer Science. I have always been interested in STEM and am
+                          looking forward to learning even more about the world of
+                          Computer science and getting to know more amazing people that
+                          are a part of it.
+                        </p>
+    		</div>
+    		
+    		<div class="stdDescription" id="cDumas">
+    		        <span class="name">Casey Dumas</span>
+    		        <span class="border"></span>
+        		      <p>
+        		            Hi! I am a freshman at
+                  Mines. I was born and raised in Colorado, and have lived
+                  pretty much everywhere on the east side of the mountains. I
+                  enjoy traveling, reading, painting, and much more! I have a
+                  passion for technology, and am very thankful for my chance to
+                  study Computer Science and be a part of PATHS.
+                        </p>
+    		</div>
+    		
+    		<div class="stdDescription" id="cPrather">
+    		        <span class="name">Christian Prather</span>
+    		        <span class="border"></span>
+        		      <p>
+        		            Hi! I recently
+                  transferred to School of Mines from Red Rocks Community
+                  College Spring of 2019. I am a Colorado native and grew up not
+                  more than 15 minutes from Mines. During whatever free time I
+                  may have I enjoy working on robotics projects or
+                  long-boarding, if the weather is cooperative. Last year I
+                  founded a company to produce educational electronics kits to
+                  students for cheap while still maintaining a high level of
+                  functionality. I hope to graduate and really pursue growing my
+                  company. I decided on CS, because I believe it allows me the
+                  best opportunity to develop skill sets that I may use to
+                  impact the lives of many. I chose Mines because it has an
+                  amazing Computer Science department and the community in the
+                  department is incredibly supportive.
+                        </p>
+    		</div>
+    		
+    		<div class="stdDescription" id="cRodriguez">
+    		        <span class="name">Cindy Rodriguez Ornales</span>
+    		        <span class="border"></span>
+        		      <p>
+        		            I am a sophomore at
+                  Colorado School of Mines planning on majoring in Computer
+                  Science, with a potential minor in biomechanical or
+                  biomedical. I was born and raised in Colorado and have loved
+                  everything about it. I decided to come to Mines because
+                  pursuing a career in the STEM field feels incredibly
+                  empowering, and, in doing so, I hope to inspire my sisters and
+                  others – showing that, even if there are obstacles in the STEM
+                  field, those can be overcome with passion and determination. I
+                  hope that through computer science I will be able to help
+                  others and give back to my community.
+                        </p>
+    		</div>
+    		
+    		<div class="stdDescription" id="cHaberland">
+    		        <span class="name">Collette Haberland</span>
+    		        <span class="border"></span>
+        		      <p>
+        		            I am in my second
+                  year at Mines. I absolutely loved my first
+                  year at Mines, especially within the computer science
+                  department. Everyone is such diligent workers, that I am
+                  inspired everyday to push myself more and more. I cannot wait
+                  to take more computer science classes and figure out what
+                  focus I want. I also am involved with Greek life on campus; I
+                  am in Alpha Phi. I am the Director of Social Media for my
+                  chapter, and I am also the Intramural and Club Sports
+                  Marketing Executive! I love to keep busy and cannot wait to
+                  see what this year has in store!
+                        </p>
+    		</div>
+    		
+    		<div class="stdDescription" id="dZhou">
+    		        <span class="name">Damian Zhou</span>
+    		        <span class="border"></span>
+        		      <p>
+        		            I am a freshman
+                this year. I have lived in Colorado for my whole life and am the
+                eldest of 5 other siblings. When I am not wasting my life away
+                reading too many sci-fi books, you can find me absorbed in
+                my laptop learning new(and sometimes useless) things. I have
+                always enjoyed sharing my love for learning with others, be it
+                my siblings, other students, or parents so being able to
+                continue this as part of the PATHS program is something that I
+                really look forward to.
+                        </p>
+    		</div>
+    		
+    		<div class="stdDescription" id="dOchoumare">
+    		        <span class="name">David Ochoumare</span>
+    		        <span class="border"></span>
+        		      <p>
+        		         I'm a freshman
+                in Computer Science at the Colorado School of Mines. I was
+                born in Benin and I came to the United States at age 3. One
+                thing that I hope to gain is the knowledge and experience that
+                I will have here. I love anything that has to do with sports
+                and I am very active. I hope to enjoy all there is to have at
+                Mines.   
+                        </p>
+    		</div>
+    		
+    		<div class="stdDescription" id="dNorris">
+    		        <span class="name">Dylan Norris</span>
+    		        <span class="border"></span>
+        		      <p>
+        		            I am a Junior currently majoring in
+              Computer Science on the Computer Science and Data Science track.
+              I am getting more involved on campus including the Acts of Random
+              Kindness club and resident advising. So far I have had a great time here at the
+              Colorado School of Mines and plan to continue to have a great
+              time. If I am not around to be seen I am probably either studying
+              or playing some video game in my room with my close friends and
+              family. Through PATHS, I look forward to introducing future
+              students to the vibrant CS@Mines community
+                        </p>
+    		</div>
+    		
+    		<div class="stdDescription" id="hVinton">
+    		        <span class="name">Hayley Vinton</span>
+    		        <span class="border"></span>
+        		      <p>
+        		           Hello! I am a transfer student from Front Range
+        		           Community College starting at Mines in Fall of 2019. I am an Applied and Computational 
+        		           Mathematics major with plans of minoring in Computer Science. As a Colorado native, I have 
+        		           wanted to attend the School of Mines for as long as I can remember, and could not be more excited 
+        		           to be part of such a reputable school and program such as PATHS. I look forward to inspiring, motivating, 
+        		           and mentoring others with Computer Science; a field that I believe can be as fulfilling as it is challenging. 
+                        </p>
+    		</div>
+    		
+    		<div class="stdDescription" id="iSantos">
+    		        <span class="name">Ivan Santos</span>
+    		        <span class="border"></span>
+        		      <p>
+        		            I will be going into my
+                  sophomore year as a computer science student here at Mines. I
+                  come from the rural parts of Aguascalientes, Mexico, but grew
+                  up in Denver up to the present day. Ever since I was little, I
+                  have grown a passion for soccer, and it is a sport I cannot
+                  live without. I came to realize my
+                  favorite application for numbers, logic, and math was computer
+                  science thus current field of study. I was raised and taught
+                  by my parents to always work my guts out because it would pay
+                  off eventually. I look forward to another year with
+                  this amazing program!
+                        </p>
+    		</div>
+    		
+    		<div class="stdDescription" id="jSerrano">
+    		        <span class="name">Jon Serrano</span>
+    		        <span class="border"></span>
+        		      <p>
+        		            I'm a freshman going into
+                  Computer Science at Mines. I grew up in Denver and graduated
+                  from Thomas Jefferson High School. I like to geek out over
+                  video games, physics, math, and various other things. I'm
+                  super excited to be able to learn about the field and
+                  contribute to the community at Mines!
+                        </p>
+    		</div>
+    		
+    		<div class="stdDescription" id="jTehranchi">
+    		        <span class="name">Jordan Tehranchi</span>
+    		        <span class="border"></span>
+        		      <p>
+        		            As an
+                  incoming freshman, I believe that PATHS is not only a verbal
+                  definition for a certain program but rather a community and
+                  inherent guideline for learning the whims and ways of
+                  technology. If I were to define PATHS under a single word, I
+                  would express it as "inspiration." Without having yet stepped
+                  foot into the shoes of a PATHS member, I still can sense the
+                  program's welcoming and very motivated Computer Science and
+                  Community Outreach prospect. My name is Jordan T, and I really
+                  look forward to meeting with all to share the memories that
+                  will come. Thanks!
+                        </p>
+    		</div>
+    		
+    		<div class="stdDescription" id="kLewis">
+    		        <span class="name">Kieran Lewis</span>
+    		        <span class="border"></span>
+        		      <p>
+        		            I am a Comp Sci sophomore. I was
+                  born in England but have lived here in Colorado since
+                  elementary school. I came to computer science originally to
+                  make video games, but now I plan to use those skills to make
+                  our world a better place in the future. For the past three
+                  years, I have been participating in a summer internship at the
+                  Space arm of Lockheed Martin, helping to develop Virtual
+                  Reality experiences. In my free time, I like to work on
+                  programming side-projects, play games, and learn foreign
+                  languages. With PATHS, I aim to help my fellow students reach
+                  their full potential and to join me in saving the world.
+                        </p>
+    		</div>
+    		
+    		<div class="stdDescription" id="kMoran">
+    		        <span class="name">Kyle Moran</span>
+    		        <span class="border"></span>
+        		      <p>
+        		            Hey, my name is Kyle Moran and I’m a sophomore majoring in
+              Computer Science at CSM. I’m a Colorado born native and couldn't
+              bear to leave. I love hiking, camping and ultimate frisbee. I run
+              Cross Country and Track and Field and love the team.I’ve always liked computers and fell in love with programming
+              after taking a class in high school. I came to Mines because of
+              their great STEM programs and have no regrets. I’m excited to
+              help the next generation of PATHS Scholars and bolster the future
+              Mines Computer Science program.
+                        </p>
+    		</div>
+    		
+    		<div class="stdDescription" id="lOrtega">
+    		        <span class="name">Levi Ortega</span>
+    		        <span class="border"></span>
+        		      <p>
+        		           I’m a freshman CS
+                major. I’ve always been really into Computers, video games, and
+                just tech in general.  A few years back I decided to teach
+                myself how to program. I say that I taught myself programming
+                very loosely as most of my learning came from the wonderful
+                teachers and mentors I had around to help guide me through some
+                tough spots. It’s this very environment that drew me towards
+                both Mines and the PATHS program in the first place. Outside of
+                school I love to spend time with my 6 younger siblings and
+                improve my overall strength through powerlifting and BJJ. I’m
+                really excited to get involved with CS@Mines and get to know all
+                of my peers! 
+                        </p>
+    		</div>
+    		
+    		<div class="stdDescription" id="nWoodward">
+    		        <span class="name">Nicholas Woodward</span>
+    		        <span class="border"></span>
+        		      <p>
+        		            PATHS; a program that encapsulates this spirit of
+                discovery, of companionship, leadership, and ultimately, helping
+                each other move forward on our journeys. By the end, we'll have
+                learned about each other, about our passions, and about this
+                magnificent world of magic that we call technology. I've already
+                set foot on my own path, witnessing the beyond through aerospace
+                design, imagining the impossible through game development, and
+                rendering my thoughts through artistic expression. My name is
+                Nicholas Woodward, and I am glad to have found some other
+                travelers to walk this journey with!
+                        </p>
+    		</div>
+    		
+    		<div class="stdDescription" id="oAitchedji">
+    		        <span class="name">Orden Aitchedji</span>
+    		        <span class="border"></span>
+        		      <p>
+        		            I'm a Computer Science
+                  Master's student at Mines scheduled to graduate in December
+                  2019. I also received a CS Bachelor's degree last December
+                  2018 from Mines. Before Mines, I went to Red Rocks community
+                  college where I completed my Associates Of Science with an
+                  emphasis in Cyber Security. While at Mines, I had the chance
+                  to meet great individuals with whom I was able to learn and
+                  grow alongside. Within PATH'S I connected with awesome new
+                  comrades, had the opportunity to be a role model as well as
+                  participate in really fun activities. Through it all, Mines
+                  has become one of my favorite places. I plan to continue on
+                  with a Ph.D. degree here at Mines.
+                        </p>
+    		</div>
+    		
+    		<div class="stdDescription" id="qWhite">
+    		        <span class="name">Quintin White</span>
+    		        <span class="border"></span>
+        		      <p>
+        		            I am
+                  a freshman at Mines. I was born an raised in Colorado. I enjoy Ultimate Frisbee and hiking
+                  14ers. I am left handed but I ski righty. Baseball is my
+                  favorite sport and if I were a flag I'd be the flag of
+                  Portugal.
+                        </p>
+    		</div>
+    		
+    		<div class="stdDescription" id="rHigashi">
+    		        <span class="name">Randi Higashi</span>
+    		        <span class="border"></span>
+        		      <p>
+        		         I am a freshman at
+                  Colorado School of Mines. I was born in California and raised
+                  in Colorado. Most of my time is spent running, taking photos,
+                  and being with family and friends. I have always been
+                  fascinated by the functioning mechanisms of the world, so
+                  naturally STEM was my calling. Ever since I took my first
+                  programming class in high school, I knew I wanted to pursued
+                  an education in Computer Science. Seeing my products come to
+                  life with a few lines of writing was captivating! As a PATHS
+                  scholar, I hope to inspire and help others learn about the
+                  world of Computer Science. I am excited to continue my
+                  passions in coding and track here at Mines. I can not wait to
+                  be apart of the PATHS program!   
+                        </p>
+    		</div>
+    		
+    		<div class="stdDescription" id="sJo">
+    		        <span class="name">Shania Jo RunningRabbit</span>
+    		        <span class="border"></span>
+        		      <p>
+        		            I am a second-year
+                  here at Mines studying Computer Science. I'm from a small
+                  rural town called Lamar here in Colorado which is very
+                  different from living near the mountains in Golden. My first
+                  year at Mines has been an awesome experience and was
+                  everything I expected and more. There are so many
+                  opportunities to get involved, especially in the CS
+                  department, and it has been so welcoming from the start. For
+                  this upcoming year, I'll be a U-CLIMB mentor which will be a
+                  great way to immerse myself even more in Computer Science and
+                  be able to help those first entering the CS field! I am really
+                  looking forward to another year here at Mines!
+                        </p>
+    		</div>
+    		
+    		<div class="stdDescription" id="sThoemmes">
+    		        <span class="name">Stephen Thoemmes</span>
+    		        <span class="border"></span>
+        		      <p>
+        		            I will be entering my second year studying Computer Science at Mines; 
+        		            I am especially interested in Data Science. Beyond programming and computer science endeavours, 
+        		            I ballroom dance and brew my own kombucha recreationally. I love to learn new languages—inside and outside 
+        		            of programming—and I look forward to snowboarding every winter. I want to bring about some positive change in the world. 
+        		            I am immensely grateful to have become a part of the PATHS program, and am excited to see where it can take us!
+                        </p>
+    		</div>
+		
+		</div>
+</body>
+</html>
