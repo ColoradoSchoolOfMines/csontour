@@ -25,9 +25,13 @@
 	</section> -->
     </article>
 
+<!--
 		<section id="footer">
 			<img id="minesImage" src="images/minesLogo.png" class="footer" alt="CS@Mines logo">
 		</section>
+-->
+    
+    <?php include 'onTourFooter.php' ?>
 
 </body>
 
