@@ -1,13 +1,13 @@
 /* Header */
 .header {
 	position: relative;
-    background-color: aqua;
 }
 
 .header img#onTourLogo {
 	max-width: 8em;
 	max-height: 8em;
 	bottom: 0;
+    left: 0;
 	margin-right: 2%;
 	margin-bottom: 10px;
 }
