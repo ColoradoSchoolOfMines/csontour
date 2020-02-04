@@ -32,6 +32,7 @@
                     <li> <a href="reviews.html">Reviews</a></li>
     	        </ul>
             </section>
+<!--
             <section class="footer-section contact-form">
                 <h2>Contact Us:</h2>
                 <form action="index.html" method="post">
@@ -42,6 +43,7 @@
                     </button>
                 </form>
             </section>
+-->
         </div>
         
         <div class="footer-bottom">
@@ -50,25 +52,5 @@
 
     </section>
 </body>
-
-<!--<body>-->
-<!--	<section id="footer">-->
-<!--	    <article id="contact">-->
-<!--	        <h3>Contact Information: </h3>-->
-<!--	        <ul>-->
-<!--	           <li>Email</li>-->
-<!--	           <li>Phone</li>-->
-<!--	        </ul>-->
-<!--	    </article>     -->
-<!--	    <img id="minesImage" src="images/minesLogo.png" class="footer" alt="CS@Mines logo">-->
-<!--	    <article id="links">-->
-<!--	        <ul>-->
-<!--	            <li> <a href="index.html">Home</a></li>-->
-<!--                <li> <a href="visit.html">Request a Visit</a></li>-->
-<!--                <li> <a href="theTeam.html">The Team</a></li>-->
-<!--	        </ul>-->
-<!--	    </article>-->
-<!--	</section>-->
-<!--</body>-->
-
+    
 </html>
