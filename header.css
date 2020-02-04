@@ -7,10 +7,9 @@
 .header img#onTourLogo {
 	max-width: 8em;
 	max-height: 8em;
-	bottom: 0;
-    left: 0;
 	margin-bottom: 10px;
-    float: left;
+    margin-right: 2%;
+	margin-bottom: 10px;
 }
 
 .header img#minesLogo {
