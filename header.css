@@ -141,12 +141,12 @@
 #footer {
     background: #303036;
     color: #d3d3d3;
-    height: 200px;
-    position: relative;
+    height: 400px;
+    position: absolute;
 }
 
 #footer .footer-content {
-    height: 350px;
+    height: 300px;
     display: flex;
 }
 
