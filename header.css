@@ -82,6 +82,7 @@
 	margin-right: inherit;
 	border-radius: 5px;
 	text-decoration: none;
+    width: 15%;
 }
 
 .nav-bar a:hover, .dropdown:hover .dropbtn{
@@ -106,6 +107,7 @@
 	display: block;
 	text-align: center;
 	border-radius: 5px;
+    width: 15%;
 }
 
 .dropdown-content a:hover{
