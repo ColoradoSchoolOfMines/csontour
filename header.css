@@ -63,8 +63,9 @@
 }
 
 
-.dropdown {
+.dropdown a {
 	display: inline-block;
+    width: 15%;
 }
 
 .dropdown .dropbtn {
