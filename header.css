@@ -1,33 +1,34 @@
 /* Header */
-#header {
-    display: inline-block;
-    width: 100%;
+.header {
+	position: relative;
+    background-color: aqua;
 }
 
-/* Header Logos */
-#headerLogo #left, #right, #title{
-	text-decoration: none;
+.header img#onTourLogo {
 	max-width: 8em;
 	max-height: 8em;
-    display: inline-block;
+	bottom: 0;
+	margin-right: 2%;
+	margin-bottom: 10px;
 }
 
-#left {
-    align-content: left;
-    float: left;
-    margin-top: 1.5em;
+.header img#minesLogo {
+	float: right;	
+	max-width: 8em;
+	max-height: 8em;
+	bottom: 0;
+	right: 0;
+	margin-bottom: 10px;
+	display: block;
 }
 
 #title {
+	position: relative;
     color: red;
     align-content: center;
+    display: none;
 }
 
-#right {
-    align-content: right;
-    float: right;
-    margin-top: 1.5em;
-}
 
 /*Title bar style*/
 
@@ -41,10 +42,13 @@
 	border-width: 8px;
 	border-style: solid;
 	justify-content: center;
+    margin: auto;
 }
 
 .nav-bar a{
 	/*float: left;*/
+	text-align: center;
+	text-transform: uppercase;
 	display: inline-block;
 	color: black;
 	padding: 12px 16px;
@@ -55,15 +59,16 @@
 	margin-right: 5px;
 	border-radius: 5px;
 	text-decoration: none;
+	width: 15%;
 }
 
 
 .dropdown {
-	/*float: left;*/
 	display: inline-block;
 }
 
 .dropdown .dropbtn {
+	width: inherit;
 	display: inline-block;
 	color: black;
 	padding: 12px 16px;
@@ -99,6 +104,7 @@
 	display: block;
 	text-align: center;
 	border-radius: 5px;
+	width: inherit;
 }
 
 .dropdown-content a:hover{
@@ -114,6 +120,20 @@
 	background-color: red;
 }
 
+/* When the size changes */
+/* Media */
+@media screen and (max-width: 1000px) {
+  
+  .header, .nav-bar a, .nav-bar dropdown {
+    float: none;
+    width: calc(100% - 45px);
+  }
+  
+   .dropdown, .dropdown2, .dropdown3 {
+    float: none;
+    width: 100%;
+  }
+}
 
 /* FOOTER */
 

@@ -7,17 +7,14 @@
         <meta name="description" content="CS@Mines On Tour">
         
         <link rel="stylesheet" type="text/css" href="header.css">
-        <link rel="stylesheet" type="text/css" href="templateStyle.css">
-        <link rel="stylesheet" type="text/css" href="mainStyle.css">
-   	<link rel="stylesheet" type="text/css" href="theTeam.css">
 </head>
 
 <body>
-    <div id="header">
-        <div id="headerLogo">
-            <img id="left" src="images/CSlogo.png">
+    <div class="header">
+        <div class="headerLogo">
+            <img id="onTourLogo" src="images/CSlogo.png">
+            <img id="minesLogo" src="images/minesSmallLogo.png">
             <h1 id="title">CS@MinesOnTour</h1>
-            <img id="right" src="images/minesSmallLogo.png">
         </div>
         
         <div class="nav-bar">
@@ -26,7 +23,7 @@
 			<a href="theTeam.php">The Team</a>
 		
             <div class="dropdown">
-                    <a class="dropbtn">Programs</a>
+                    <a class="dropbtn">Our Programs</a>
                 <div class="dropdown-content">
                     <a href="highSchool.php">High School</a>
                     <a href="middleSchool.php">Middle School</a>
