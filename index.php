@@ -9,10 +9,10 @@
 	<link rel="stylesheet" type="text/css" href="mainStyle.css">
 
 </head>
-
-<body>
-	<!-- Nav Menu -->
+    
+    <!-- Nav Menu -->
 	<?php include 'onTourHeader.php' ?>
+<body>
 
     <article>
 	<section>
@@ -24,9 +24,9 @@
 		<img id="team" src="images/dectech1.png">
 	</section> -->
     </article>
-    
-    <?php include 'onTourFooter.php' ?>
 
 </body>
+    
+     <?php include 'onTourFooter.php' ?>
 
 </html>
