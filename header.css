@@ -1,6 +1,7 @@
 /* Header */
 .header {
 	position: relative;
+    display: block;
 }
 
 .header img#onTourLogo {
