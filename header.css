@@ -78,7 +78,7 @@
 	margin-right: inherit;
 	border-radius: 5px;
 	text-decoration: none;
-    width: 20%;
+    width: inherit;
 }
 
 .dropdown .dropbtn {
