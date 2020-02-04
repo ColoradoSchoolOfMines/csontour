@@ -63,9 +63,8 @@
 }
 
 
-.dropdown a {
+.dropdown {
 	display: inline-block;
-    width: 15%;
 }
 
 .dropdown .dropbtn {
@@ -79,7 +78,6 @@
 	margin-right: inherit;
 	border-radius: 5px;
 	text-decoration: none;
-    width: inherit;
 }
 
 .nav-bar a:hover, .dropdown:hover .dropbtn{
@@ -91,7 +89,6 @@
 	display: none;
 	position: absolute;
 	background-color: #FAEBD7;
-	min-width: 160px;
 	box-shadow: 0 8px 16px 0 rgba(1,1,1,0.8);
 	z-index: 1;
 	border-radius: 5px;
@@ -105,7 +102,6 @@
 	display: block;
 	text-align: center;
 	border-radius: 5px;
-	width: inherit;
 }
 
 .dropdown-content a:hover{
