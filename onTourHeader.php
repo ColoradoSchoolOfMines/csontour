@@ -30,17 +30,6 @@
                     <a href="elementarySchool.php">Elementary School</a>
                 </div>
             </div>
-            <!--<ul>-->
-            <!--    <li class="menu">-->
-            <!--        <a class="menubtn">Programs</a>-->
-            <!--            <div class="submenu">-->
-            <!--                    <ul>-->
-            <!--                        <a href="highSchool.html">High School</a>-->
-            <!--                        <a href="middleSchool.html">Middle School</a>-->
-            <!--                        <a href="elementarySchool.html">Elementary School</a>-->
-            <!--                    </ul>-->
-            <!--            </div>-->
-            <!--    </li>-->
             <a href="reviews.php">Reviews</a>
         </div>
     </div>
