@@ -45,6 +45,6 @@ concepts (CS Unplugged activities)</li>
 </div>
 </body>
 
-
+<?php include 'onTourFooter.php' ?>
 
 </html>

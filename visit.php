@@ -23,8 +23,6 @@
 
 </body>
 
-<?php
-	include "templateFooter.php";
-?>
+<?php include 'onTourFooter.php' ?>
 
 </html>

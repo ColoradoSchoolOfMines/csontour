@@ -500,4 +500,7 @@
 		
 		</div>
 </body>
+    
+    <?php include 'onTourFooter.php' ?>
+    
 </html>

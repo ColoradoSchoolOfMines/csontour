@@ -45,8 +45,6 @@ facts on the occupational outlook for computer science”
 
 </body>
 
-<?php
-	include "templateFooter.php";
-?>
+<?php include 'onTourFooter.php' ?>
 
 </html>
