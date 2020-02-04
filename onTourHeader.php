@@ -12,8 +12,8 @@
 <body>
     <div class="header">
         <div class="headerLogo">
-            <img id="onTourLogo" src="images/CSlogo.png">
-            <img id="minesLogo" src="images/minesSmallLogo.png">
+            <img id="onTourLogo" src="images/CSlogo.png" alt="Cs On Tour Logo">
+            <img id="minesLogo" src="images/minesSmallLogo.png" alt="Mines Logo">
             <h1 id="title">CS@MinesOnTour</h1>
         </div>
         

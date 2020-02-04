@@ -55,14 +55,11 @@ article a{
 .quote{
 	text-align: left;
 }
+
 #team{
 	display: inline-block;
 	height: 9em;
 	width: 14em;
-}
-
-#unpluggedLogo{
-	width: 50%;
 }
 
 #h2toh1{ /*Need it to make it ADA compliant */
@@ -109,7 +106,3 @@ font-size: 130%;
 
 }
 
-footer img{
-	margin: auto;
-	width: 100%;
-}
