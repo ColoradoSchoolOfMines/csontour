@@ -43,7 +43,6 @@
     			<a href="#kMoran"> <img class="personPicture" src="../images/kMoran.jpg" alt="kMoran"> </a>
     			<a href="#lOrtega"> <img class="personPicture" src="../images/lOrtega.jpg" alt="lOrtega"> </a>
     			<a href="#nWoodward"> <img class="personPicture" src="../images/nWoodward.jpg" alt="nWoodward"> </a>
-    			<a href="#oAitchedji"> <img class="personPicture" src="i../mages/oAitchedji.jpg" alt="oAitchedji"> </a>
     			<a href="#qWhite"> <img class="personPicture" src="../images/qWhite.jpg" alt="qWhite"> </a>
     			<a href="#rHigashi"> <img class="personPicture" src="../images/rHigashi.jpg" alt="rHigashi"> </a>
     			<a href="#sJo"> <img class="personPicture" src="../images/sJo.jpg" alt="sJo"> </a>
@@ -413,25 +412,6 @@
                 rendering my thoughts through artistic expression. My name is
                 Nicholas Woodward, and I am glad to have found some other
                 travelers to walk this journey with!
-                        </p>
-    		</div>
-    		
-    		<div class="stdDescription" id="oAitchedji">
-    		        <span class="name">Orden Aitchedji</span>
-    		        <span class="border"></span>
-        		      <p>
-        		            I'm a Computer Science
-                  Master's student at Mines scheduled to graduate in December
-                  2019. I also received a CS Bachelor's degree last December
-                  2018 from Mines. Before Mines, I went to Red Rocks community
-                  college where I completed my Associates Of Science with an
-                  emphasis in Cyber Security. While at Mines, I had the chance
-                  to meet great individuals with whom I was able to learn and
-                  grow alongside. Within PATH'S I connected with awesome new
-                  comrades, had the opportunity to be a role model as well as
-                  participate in really fun activities. Through it all, Mines
-                  has become one of my favorite places. I plan to continue on
-                  with a Ph.D. degree here at Mines.
                         </p>
     		</div>
     		
