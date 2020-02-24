@@ -5,8 +5,8 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="CS@Mines On Tour">
-	<link rel="stylesheet" type="text/css" href="templateStyle.css">
-	<link rel="stylesheet" type="text/css" href="mainStyle.css">
+	<link rel="stylesheet" type="text/css" href="../CSS/templateStyle.css">
+	<link rel="stylesheet" type="text/css" href="../CSS/mainStyle.css">
 </head>
 
 <!-- Nav Menu -->

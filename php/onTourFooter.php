@@ -5,13 +5,14 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="CS@Mines On Tour">
-	<link rel="stylesheet" type="text/css" href="header.css">
+	<link rel="stylesheet" type="text/css" href="../CSS/header.css">
 
 </head>
 
     <!--Footer-->
     
 <body>
+    <hr>
     <section id="footer">
         <div class="footer-content">
             <section class="footer-section about">
@@ -22,6 +23,8 @@
                     learn.
                 </p>
             </section>
+        </div>
+        <div class="footer-links">
             <section class="footer-section links">
                 <h2>Website Links:</h2>
                  <ul>
@@ -32,23 +35,13 @@
                     <li> <a href="reviews.html">Reviews</a></li>
     	        </ul>
             </section>
-<!--
-            <section class="footer-section contact-form">
-                <h2>Contact Us:</h2>
-                <form action="index.html" method="post">
-                    <input type="email" name="email" class="text-input contact-input" placeholder="Enter your email">
-                    <textarea name="message" class="text-input contact-input" placeholder="Your message..."></textarea>
-                    <button type="submit" class="btn btn-big">
-                        Send    
-                    </button>
-                </form>
-            </section>
--->
         </div>
         
+<!--
         <div class="footer-bottom">
             &copy; https://csontour.mines.edu/
         </div>
+-->
 
     </section>
 </body>
