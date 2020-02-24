@@ -20,34 +20,34 @@
     			<span class="border"></span>
     		<div class="ps">
     			
-    			<a href="#mCox"> <img class="personPicture" src="images/morgan.jpeg" alt="morgan"></a>
-    			<a href="#jSchmerge"> <img class="personPicture" src="images/jSchmerge.png" alt="Jordan"> </a>
-    			<a href="#aEstrada"> <img class="personPicture" src="images/aEstrada.jpg" alt="Adrian"> </a>
-    			<a href="#aLangfield"> <img class="personPicture" src="images/aLangfield.jpg" alt="aLangfield"> </a>
-    			<a href="#aLam"> <img class="personPicture" src="images/aLam.jpg" alt="aLam"> </a>
-    			<a href="#aGonzalez"> <img class="personPicture" src="images/aGonzalez.jpg" alt="aGonzalez"> </a>
-    			<a href="#aDarling"> <img class="personPicture" src="images/aDarling.jpg" alt="aDarling"> </a>
-    			<a href="#bLanham"> <img class="personPicture" src="images/bLanham.jpg" alt="bLanham"> </a>
-    			<a href="#cDumas"> <img class="personPicture" src="images/cDumas.jpg" alt="cDumas"> </a>
-    			<a href="#cPrather"> <img class="personPicture" src="images/cPrather.jpg" alt="cPrather"> </a>
-    			<a href="#cRodriguez"> <img class="personPicture" src="images/cRodriguez.jpg" alt="cRodriguez"> </a>
-    			<a href="#cHaberland"> <img class="personPicture" src="images/cHaberland.jpg" alt="cHaberland"> </a>
-    			<a href="#dZhou"> <img class="personPicture" src="images/morgan.jpeg" alt="dZhou"> </a>
-    			<a href="#dOchoumare"> <img class="personPicture" src="images/dOchoumare.jpg" alt="dOchoumare"> </a>
-    			<a href="#dNorris"> <img class="personPicture" src="images/dNorris.jpg" alt="dNorris"> </a>
-    			<a href="#hVinton"> <img class="personPicture" src="images/hVinton.jpg" alt="hVinton"> </a>
-    			<a href="#iSantos"> <img class="personPicture" src="images/iSantos.png" alt="iSantos"> </a>
-    			<a href="#jSerrano"> <img class="personPicture" src="images/jSerrano.png" alt="jSerrano"> </a>
-    			<a href="#jTehranchi"> <img class="personPicture" src="images/jTehranchi.jpg" alt="jTehranchi"> </a>
-    			<a href="#kLewis"> <img class="personPicture" src="images/kLewis.jpg" alt="kLewis"> </a>
-    			<a href="#kMoran"> <img class="personPicture" src="images/kMoran.jpg" alt="kMoran"> </a>
-    			<a href="#lOrtega"> <img class="personPicture" src="images/lOrtega.jpg" alt="lOrtega"> </a>
-    			<a href="#nWoodward"> <img class="personPicture" src="images/nWoodward.jpg" alt="nWoodward"> </a>
-    			<a href="#oAitchedji"> <img class="personPicture" src="images/oAitchedji.jpg" alt="oAitchedji"> </a>
-    			<a href="#qWhite"> <img class="personPicture" src="images/qWhite.jpg" alt="qWhite"> </a>
-    			<a href="#rHigashi"> <img class="personPicture" src="images/rHigashi.jpg" alt="rHigashi"> </a>
-    			<a href="#sJo"> <img class="personPicture" src="images/sJo.jpg" alt="sJo"> </a>
-    			<a href="#sThoemmes"> <img class="personPicture" src="images/sThoemmes.jpg" alt="sThoemmes"> </a>
+    			<a href="#mCox"> <img class="personPicture" src="../images/morgan.jpeg" alt="morgan"></a>
+    			<a href="#jSchmerge"> <img class="personPicture" src="../images/jSchmerge.png" alt="Jordan"> </a>
+    			<a href="#aEstrada"> <img class="personPicture" src="../images/aEstrada.jpg" alt="Adrian"> </a>
+    			<a href="#aLangfield"> <img class="personPicture" src="../images/aLangfield.jpg" alt="aLangfield"> </a>
+    			<a href="#aLam"> <img class="personPicture" src="../images/aLam.jpg" alt="aLam"> </a>
+    			<a href="#aGonzalez"> <img class="personPicture" src="../images/aGonzalez.jpg" alt="aGonzalez"> </a>
+    			<a href="#aDarling"> <img class="personPicture" src="../images/aDarling.jpg" alt="aDarling"> </a>
+    			<a href="#bLanham"> <img class="personPicture" src="../images/bLanham.jpg" alt="bLanham"> </a>
+    			<a href="#cDumas"> <img class="personPicture" src="../images/cDumas.jpg" alt="cDumas"> </a>
+    			<a href="#cPrather"> <img class="personPicture" src="../images/cPrather.jpg" alt="cPrather"> </a>
+    			<a href="#cRodriguez"> <img class="personPicture" src="../images/cRodriguez.jpg" alt="cRodriguez"> </a>
+    			<a href="#cHaberland"> <img class="personPicture" src="../images/cHaberland.jpg" alt="cHaberland"> </a>
+    			<a href="#dZhou"> <img class="personPicture" src="../images/morgan.jpeg" alt="dZhou"> </a>
+    			<a href="#dOchoumare"> <img class="personPicture" src="../images/dOchoumare.jpg" alt="dOchoumare"> </a>
+    			<a href="#dNorris"> <img class="personPicture" src="../images/dNorris.jpg" alt="dNorris"> </a>
+    			<a href="#hVinton"> <img class="personPicture" src="../images/hVinton.jpg" alt="hVinton"> </a>
+    			<a href="#iSantos"> <img class="personPicture" src="../images/iSantos.png" alt="iSantos"> </a>
+    			<a href="#jSerrano"> <img class="personPicture" src="../images/jSerrano.png" alt="jSerrano"> </a>
+    			<a href="#jTehranchi"> <img class="personPicture" src="../images/jTehranchi.jpg" alt="jTehranchi"> </a>
+    			<a href="#kLewis"> <img class="personPicture" src="../images/kLewis.jpg" alt="kLewis"> </a>
+    			<a href="#kMoran"> <img class="personPicture" src="../images/kMoran.jpg" alt="kMoran"> </a>
+    			<a href="#lOrtega"> <img class="personPicture" src="../images/lOrtega.jpg" alt="lOrtega"> </a>
+    			<a href="#nWoodward"> <img class="personPicture" src="../images/nWoodward.jpg" alt="nWoodward"> </a>
+    			<a href="#oAitchedji"> <img class="personPicture" src="i../mages/oAitchedji.jpg" alt="oAitchedji"> </a>
+    			<a href="#qWhite"> <img class="personPicture" src="../images/qWhite.jpg" alt="qWhite"> </a>
+    			<a href="#rHigashi"> <img class="personPicture" src="../images/rHigashi.jpg" alt="rHigashi"> </a>
+    			<a href="#sJo"> <img class="personPicture" src="../images/sJo.jpg" alt="sJo"> </a>
+    			<a href="#sThoemmes"> <img class="personPicture" src="../images/sThoemmes.jpg" alt="sThoemmes"> </a>
     			
     		</div>
     		
