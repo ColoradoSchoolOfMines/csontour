@@ -14,16 +14,16 @@
 		</header>
 		
 		<div class="nav-bar">
-            <a href="index.php">Home</a>
-			<a href="visit.php">Request a Visit</a>
-			<a href="theTeam.php">The Team</a>
+            <a href="/php/index.php">Home</a>
+			<a href="/php/visit.php">Request a Visit</a>
+			<a href="/php/theTeam.php">The Team</a>
 			
 			<div class="dropdown">
 				<a class="dropbtn">Our Programs</a>
 				<div class="dropdown-content">
-				    <a href="highSchool.php">High School</a>
-                    <a href="middleSchool.php">Middle School</a>
-                    <a href="elementarySchool.php">Elementary School</a>
+				    <a href="/php/highSchool.php">High School</a>
+                    <a href="/php/middleSchool.php">Middle School</a>
+                    <a href="/php/elementarySchool.php">Elementary School</a>
 				</div>
 			</div>
 			
