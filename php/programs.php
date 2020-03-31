@@ -10,16 +10,16 @@
 
 <body id="body" class="light-mode">  
   
-    <div class="class-buttons" id="high-school">
-        <a href="https://stemtech.csmspace.com/DECSummer/" target="_blank"><button> Payment Form </button></a>
-    </div>
-    
-    <div class="class-buttons" id="middle-school">
-        <a href="https://stemtech.csmspace.com/DECSummer/" target="_blank"><button> Payment Form </button></a>
-    </div>
-    
-    <div class="class-buttons" id="elementary-school">
-        <a href="https://stemtech.csmspace.com/DECSummer/" target="_blank"><button> Payment Form </button></a>
-    </div>
+    <div class="class-buttons" id="homepage">
+	<button onClick="moveTo('discover/index')"
+		id="high-school">HighSchool</button>
+	<button onClick="moveTo('explore/index')"
+		id="middle-school">Middle School</button>
+	<button onClick="moveTo('create/index')"
+		id="create">Create</button>
+	<button onClick="moveTo('summer/index')"
+		id="elementary-school">Elementary<br>School</button>
+</div>
+
     
 </body>
