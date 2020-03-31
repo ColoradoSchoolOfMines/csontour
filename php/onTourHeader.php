@@ -18,6 +18,7 @@
 			<a href="/php/visit.php">Request a Visit</a>
 			<a href="/php/theTeam.php">The Team</a>
 			
+<!--
 			<div class="dropdown">
 				<a class="dropbtn">Our Programs</a>
 				<div class="dropdown-content">
@@ -26,6 +27,7 @@
                     <a href="/php/elementarySchool.php">Elementary School</a>
 				</div>
 			</div>
+-->
 			
             <a href="reviews.php">Reviews</a>
 			
@@ -33,4 +35,5 @@
 		<hr>
     
      <?php include 'programs.php' ?>
+    
 </body>

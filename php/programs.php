@@ -11,13 +11,11 @@
 <body id="body" class="light-mode">  
   
     <div class="class-buttons" id="homepage">
-	<button onClick="moveTo('discover/index')"
+	<button onClick="window.location.href = 'highSchool.php';"
 		id="high-school">HighSchool</button>
-	<button onClick="moveTo('explore/index')"
+	<button onClick="window.location.href = 'middleSchool.php';"
 		id="middle-school">Middle School</button>
-	<button onClick="moveTo('create/index')"
-		id="create">Create</button>
-	<button onClick="moveTo('summer/index')"
+	<button onClick = "window.location.href = 'elementarySchool.php';"
 		id="elementary-school">Elementary<br>School</button>
 </div>
 
