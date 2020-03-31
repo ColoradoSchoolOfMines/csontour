@@ -14,9 +14,9 @@
 		</header>
 		
 		<div class="nav-bar">
-            <a href="/php/index.php">Home</a>
-			<a href="/php/visit.php">Request a Visit</a>
-			<a href="/php/theTeam.php">The Team</a>
+            <a href="/php/index.php" class="<?php if ($thisPage=="index") echo 'current'; ?>">Home</a>
+			<a href="/php/visit.php" class="<?php if ($thisPage=="visit") echo 'current'; ?>">Request a Visit</a>
+			<a href="/php/theTeam.php" class="<?php if ($thisPage=="theTeam") echo 'current'; ?>">The Team</a>
 			
 <!--
 			<div class="dropdown">
@@ -29,7 +29,7 @@
 			</div>
 -->
 			
-            <a href="reviews.php">Reviews</a>
+            <a href="reviews.php" class="<?php if ($thisPage=="reviews") echo 'current'; ?>">Reviews</a>
 			
 		</div>
 		<hr>

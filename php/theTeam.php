@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+    <?php $thisPage="theTeam"; ?>
 <head>
         <title>CS@Mines On Tour</title>
         <meta charset="UTF-8">

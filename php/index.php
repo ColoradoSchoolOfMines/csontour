@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+    <?php $thisPage="index"; ?>
 <head>
 	<title>CS@Mines On Tour</title>
 	<meta charset="UTF-8">

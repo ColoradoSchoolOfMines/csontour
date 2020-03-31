@@ -1,5 +1,6 @@
 i<!DOCTYPE html>
 <html lang="en">
+    <?php $thisPage="middle"; ?>
 <head>
 	<title>CS@Mines On Tour</title>
 	<meta charset="UTF-8">
