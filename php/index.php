@@ -13,7 +13,7 @@
 	<?php include 'onTourHeader.php' ?>
     
 <body>
-
+    <?php include 'programs.php' ?>
     <article>
 	<section>
 	<h1>Give your students the opportunity to see what a great career in CS looks like by requesting a visit!</h1>

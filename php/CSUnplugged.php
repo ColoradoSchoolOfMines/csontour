@@ -13,7 +13,7 @@
 
 	<!-- Nav Menu -->
 	<?php include 'onTourHeader.php' ?>
-
+    
 	<article>
 		<section>
 			<p><b>To see what lessons our team can present to Middle School students, follow the link below.</b></p>
