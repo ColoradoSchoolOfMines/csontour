@@ -157,6 +157,7 @@
     padding: 25px;
     border: 5px;
     border-color: #00CE49;
+    padding-bottom: 0px;
 }
 
 #footer .footer-links .links ul li a{
