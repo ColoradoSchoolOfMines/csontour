@@ -40,13 +40,8 @@
 		</section>
 	</article>
 	</div>
-
-	<section id="footer">
-		<p class="footer">Team Lead: Jordan Card <br> jcard@mymail.mines.edu </p>
-		<h1 class="footer">CS@Mines On Tour</h1>
-		<img id="minesImage" src="images/minesLogo.png" class="footer">
-	</section>
-
 </body>
+    
+    <?php include 'onTourFooter.php' ?>
 
 </html>

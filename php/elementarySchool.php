@@ -21,18 +21,18 @@
 <div id="main">
 	<div id="leftBar">
 		<div id="leftItem">
-			<a id="leftBorder" href="visitPrep.html"><img id="leftIcon" src="images/apple.png"></a>
+<!--			<a id="leftBorder" href="visitPrep.html"><img id="leftIcon" src="/images/apple.png"></a>-->
 			<a id="leftBorder" href="visitPrep.html"><h1 class="centerText">Visit Preparation</h1></a>
 		</div>
 		<div id="leftItem">
-			<a id="leftBorder" href="CSUnplugged.html"><img id="leftIcon" src="images/apple.png"></a>
+<!--			<a id="leftBorder" href="CSUnplugged.html"><img id="leftIcon" src="/images/apple.png"></a>-->
 			<a id="leftBorder" href="CSUnplugged.html"><h1 class="centerText">CS Unplugged</h1></a>
 		</div>
 	</div>
 
 	<article>
 		<section>
-		<h2>Our team will guide student exploration by presenting CS Unplugged lessons that cover the following:</h1>
+		<h2>Our team will guide student exploration by presenting CS Unplugged lessons that cover the following:</h2>
 			<ol id="bullets">
 				<li>Engage elementary school students with games
 and puzzles that teach computer science
@@ -42,11 +42,11 @@ concepts (CS Unplugged activities)</li>
 Spanning Trees</li>
 			</ol>
 		</section>
-		<img id="unpluggedLogo" src="images/minesUnplugged.png">
+		<img id="unpluggedLogo" src="../images/minesUnplugged.png">
 	</article>
 </div>
 </body>
 
-
+    <?php include 'onTourFooter.php' ?>
 
 </html>

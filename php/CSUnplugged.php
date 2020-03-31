@@ -22,9 +22,6 @@
 	</article>
 </body>
 
-<section id="footer">
-	<h1 class="footer">CS@Mines On Tour</h1>
-	<img id="minesImage" src="images/minesLogo.png" class="footer" alt="Logo of Computer Science at Mines">
-</section>
+	<?php include 'onTourFooter.php' ?>
 
 </html>

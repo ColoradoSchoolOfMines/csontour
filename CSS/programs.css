@@ -56,27 +56,23 @@
 	font-size: 1em;
 }
 
-.class-buttons#register button:hover {
-	background-color: #12836d;
-}
-
 /* Colors */
 .class-buttons > button#high-school {
 	background-color: #3498db;
 }
 .class-buttons > button#high-school:hover {
-	background-color: #246a99;
+	background-color: #263F6A;
 }
 .class-buttons > button#middle-school {
-	background-color: #f1c40f;
+	background-color: #00CE49;
 }
 .class-buttons > button#middle-school:hover {
-	background-color: #a8890a;
+	background-color: #006400;
 }
 .class-buttons > button#elementary-school {
-	background-color: #2ecc71;
+	background-color: #263F6A;
 }
 .class-buttons > button#elementary-school:hover {
-	background-color: #208e4f;
+	background-color: #3498db;
 }
 

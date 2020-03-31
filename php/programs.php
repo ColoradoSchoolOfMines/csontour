@@ -13,12 +13,10 @@
   
     <div class="class-buttons" id="homepage">
 	<button onClick="window.location.href = 'highSchool.php';"
-		id="high-school">HighSchool</button>
+		id="high-school">High<br>School</button>
 	<button onClick="window.location.href = 'middleSchool.php';"
-		id="middle-school">Middle School</button>
+		id="middle-school">Middle<br>School</button>
 	<button onClick = "window.location.href = 'elementarySchool.php';"
 		id="elementary-school">Elementary<br>School</button>
 </div>
-
-    
 </body>

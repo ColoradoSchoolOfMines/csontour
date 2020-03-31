@@ -104,3 +104,8 @@ font-size: 130%;
 
 }
 
+#unpluggedLogo {
+    height: 2em;
+    max-width: 2em;
+}
+
