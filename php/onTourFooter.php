@@ -16,7 +16,7 @@
     <section id="footer">
         <div class="footer-content">
             <section class="footer-section about">
-                <h1 class="logo-text"><span>CS</span>On<span>Tour</span></h1>
+                <h1 class="logo-text"><span>CS</span>@<span>Mines</span> On <Span>Tour</Span></h1>
                 <p>
                     The CS@Mines On Tour team works to spread awareness of the opportunities that a career in Computer Science can offer to students. Colorado School of Mines students travel to elementary, middle and high schools within Colorado.
                 </p>
