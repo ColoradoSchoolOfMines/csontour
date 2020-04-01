@@ -19,30 +19,35 @@
 
 
 <div id="main">
+<!--
 	<div id="leftBar">
 		<div id="leftItem">
-<!--			<a id="leftBorder" href="visitPrep.html"><img id="leftIcon" src="/images/apple.png"></a>-->
+			<a id="leftBorder" href="visitPrep.html"><img id="leftIcon" src="/images/apple.png"></a>
 			<a id="leftBorder" href="visitPrep.html"><h1 class="centerText">Visit Preparation</h1></a>
 		</div>
 		<div id="leftItem">
-<!--			<a id="leftBorder" href="CSUnplugged.html"><img id="leftIcon" src="/images/apple.png"></a>-->
+			<a id="leftBorder" href="CSUnplugged.html"><img id="leftIcon" src="/images/apple.png"></a>
 			<a id="leftBorder" href="CSUnplugged.html"><h1 class="centerText">CS Unplugged</h1></a>
 		</div>
 	</div>
+-->
 
 	<article>
 		<section>
 		<h2>Our team will guide student exploration by presenting CS Unplugged lessons that cover the following:</h2>
-			<ol id="bullets">
-				<li>Engage elementary school students with games
-and puzzles that teach computer science
-concepts (CS Unplugged activities)</li>
-				<li>Introduce students to computational thinking</li>
-				<li>Example topics: Introduction to Binary Numbers and Minimal
-Spanning Trees</li>
-			</ol>
+			<div class="bullets">
+                <ul id="bullets">
+                    <li>Engage elementary school students with games
+                        and puzzles that teach computer science
+                        concepts (CS Unplugged activities)</li>
+                    <li>Introduce students to computational thinking</li>
+                    <li>Example topics: Introduction to Binary Numbers and Minimal
+                        Spanning Trees
+                    </li>
+                    <li><a href="../php/visit.php">Request a visit</a></li>
+                </ul>
+            </div>
 		</section>
-		<img id="unpluggedLogo" src="../images/minesUnplugged.png">
 	</article>
 </div>
 </body>

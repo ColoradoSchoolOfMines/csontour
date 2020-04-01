@@ -26,9 +26,12 @@
 					<li>Have a white board and markers ready</li>
 				</ol>
 			<h3>High School Preparation: </h3>
-				<ol>
-					<li>Have students brainstorm questions that they'd like to ask the presenters after the presentation. Ex: What is being a college student like? What was your favorite computer science project?</li>
-				</ol> 
+				<ul>
+                    <li>Have students brainstorm questions that they'd like to ask the presenters after the presentation. </li>
+                    <ul>
+                        <li>Ex: What is being a college student like? What was your favorite computer science project?</li>
+                        </ul>    
+				</ul> 
 				</div>
 		<h2>We'll bring copies and all lesson materials to your classroom. In general, not much preparation is necessary on the teacher's end.</h2>
 	</article>

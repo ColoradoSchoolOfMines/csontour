@@ -19,7 +19,7 @@
 	<article>
 		<p>The first step to getting our team into your classroom is to request a visit. After your request has been submitted, our team lead will contact you with potential visit times that fit your specified availability.</p>
 		<p>To request a visit, follow the link below and fill out the Google Form. </p>
-		<a href="https://forms.gle/E3ccKLnctdA9yTp26">Visit Form</a>
+		<a href="https://forms.gle/E3ccKLnctdA9yTp26" target="_blank">Visit Form</a>
 	</article>
 
 </body>

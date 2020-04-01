@@ -39,11 +39,17 @@ section{
 
 }
 
+.bullets {
+    text-align: center;
+}
+
 .bullets li{
 	display: list-item;
 	list-style-type: circle;
-	text-align: left;
-	margin-left: 5%;
+}
+
+.bullets ul{
+    display: inline-block
 }
 
 article a{

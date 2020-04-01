@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="CS@Mines On Tour">
-	<link rel="stylesheet" type="text/css" href="../CSS/header.css">
+	<link rel="stylesheet" type="text/css" href="../CSS/footer.css">
 
 </head>
 
@@ -26,14 +26,11 @@
         </div>
         <div class="footer-links">
             <section class="footer-section links">
-                <h2>Website Links:</h2>
-                 <ul>
-    	            <li> <a href="index.html">Home</a></li>
-                    <li> <a href="visit.html">Request a Visit</a></li>
-                    <li> <a href="theTeam.html">The Team</a></li>
-                    <li> <a href="programs.html">Programs</a></li>
-                    <li> <a href="reviews.html">Reviews</a></li>
-    	        </ul>
+                <h2>Website Links</h2>
+    	            <a href="../php/index.php">Home</a>
+                    <a href="../php/visit.php">Request a Visit</a>
+                    <a href="../php/theTeam.php">The Team</a>
+                    <a href="../php/reviews.php">Reviews</a>
             </section>
         </div>
         
