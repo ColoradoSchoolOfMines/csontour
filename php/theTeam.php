@@ -239,6 +239,7 @@
                         </p>
     		</div>
     		
+<!--
     		<div class="stdDescription" id="dZhou">
     		        <span class="name">Damian Zhou</span>
     		        <span class="border"></span>
@@ -254,6 +255,7 @@
                 really look forward to.
                         </p>
     		</div>
+-->
     		
     		<div class="stdDescription" id="dOchoumare">
     		        <span class="name">David Ochoumare</span>
