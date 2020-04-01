@@ -52,6 +52,10 @@
     transition: all 1s;
 }
 
+.current a{
+    background-color: aliceblue;
+}
+
 /*
 
 #footer .footer-bottom {

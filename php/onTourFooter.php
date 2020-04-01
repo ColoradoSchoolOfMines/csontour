@@ -27,15 +27,15 @@
         <div class="footer-links">
             <section class="footer-section links">
                 <h2>Website Links</h2>
-    	            <a href="../php/index.php">Home</a>
-                    <a href="../php/visit.php">Request a Visit</a>
-                    <a href="../php/theTeam.php">The Team</a>
-                    <a href="../php/reviews.php">Reviews</a>
+    	            <a href="../php/index.php" class="<?php if ($thisPage=="index") echo 'current'; ?>">Home</a>
+                    <a href="../php/visit.php" class="<?php if ($thisPage=="visit") echo 'current'; ?>">Request a Visit</a>
+                    <a href="../php/theTeam.php" class="<?php if ($thisPage=="theTeam") echo 'current'; ?>">The Team</a>
+                    <a href="../php/reviews.php" class="<?php if ($thisPage=="reviews") echo 'current'; ?>">Reviews</a>
             </section>
         </div>
         
 <!--
-        <div class="footer-bottom">
+        <div class="footer-bottom"> 
             &copy; https://csontour.mines.edu/
         </div>
 -->

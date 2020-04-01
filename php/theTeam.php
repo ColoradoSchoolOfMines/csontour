@@ -16,7 +16,7 @@
     <!-- Nav Menu -->
     <?php include 'onTourHeader.php' ?>
 
-	<div class="team-section">
+	<article>
     			<h1>Our Team</h1>
     			<span class="border"></span>
     		<div class="ps">
@@ -479,7 +479,7 @@
                         </p>
     		</div>
 		
-		</div>
+    </article>
 </body>
     
     <?php include 'onTourFooter.php' ?>
