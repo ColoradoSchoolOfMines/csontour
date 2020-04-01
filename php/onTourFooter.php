@@ -18,19 +18,18 @@
             <section class="footer-section about">
                 <h1 class="logo-text"><span>CS</span>On<span>Tour</span></h1>
                 <p>
-                    CsOnTour is a program that brings computer science fundefrmntals into schools. We 
-                    help get the students excited about learning coding and interact with them to help them
-                    learn.
+                    The CS@Mines On Tour team works to spread awareness of the opportunities that a career in Computer Science can offer to students. Colorado School of Mines students travel to elementary, middle and high schools within Colorado.
                 </p>
             </section>
         </div>
         <div class="footer-links">
             <section class="footer-section links">
-                <h2>Website Links</h2>
+                <h2>Links</h2>
     	            <a href="../php/index.php" class="<?php if ($thisPage=="index") echo 'current'; ?>">Home</a>
-                    <a href="../php/visit.php" class="<?php if ($thisPage=="visit") echo 'current'; ?>">Request a Visit</a>
-                    <a href="../php/theTeam.php" class="<?php if ($thisPage=="theTeam") echo 'current'; ?>">The Team</a>
-                    <a href="../php/reviews.php" class="<?php if ($thisPage=="reviews") echo 'current'; ?>">Reviews</a>
+                    <a href="../php/highSchool.php" class="<?php if ($thisPage=="visit") echo 'current'; ?>">High School</a>
+                    <a href="../php/middleSchool.php" class="<?php if ($thisPage=="theTeam") echo 'current'; ?>">Middle School</a>
+                    <a href="../php/elementarySchool.php" class="<?php if ($thisPage=="theTeam") echo 'current'; ?>">Elementary School</a>
+                    <a href="../php/visit.php" class="<?php if ($thisPage=="reviews") echo 'current'; ?>">Request a Visit</a>
             </section>
         </div>
         

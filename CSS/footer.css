@@ -22,6 +22,9 @@
 }
 
 /* Footer Links */
+.footer-links {
+    margin-top: 5px;
+}
 .footer-links a{
    display: inline-block;
 }
