@@ -33,7 +33,6 @@
     			<a href="#cPrather"> <img class="personPicture" src="../images/cPrather.jpg" alt="cPrather"> </a>
     			<a href="#cRodriguez"> <img class="personPicture" src="../images/cRodriguez.jpg" alt="cRodriguez"> </a>
     			<a href="#cHaberland"> <img class="personPicture" src="../images/cHaberland.jpg" alt="cHaberland"> </a>
-    			<a href="#dZhou"> <img class="personPicture" src="../images/morgan.jpeg" alt="dZhou"> </a>
     			<a href="#dOchoumare"> <img class="personPicture" src="../images/dOchoumare.jpg" alt="dOchoumare"> </a>
     			<a href="#dNorris"> <img class="personPicture" src="../images/dNorris.jpg" alt="dNorris"> </a>
     			<a href="#hVinton"> <img class="personPicture" src="../images/hVinton.jpg" alt="hVinton"> </a>
