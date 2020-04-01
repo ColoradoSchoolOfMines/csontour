@@ -33,11 +33,9 @@
             </section>
         </div>
         
-<!--
         <div class="footer-bottom"> 
             &copy; https://csontour.mines.edu/
         </div>
--->
 
     </section>
 </body>

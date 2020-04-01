@@ -17,7 +17,7 @@ i<!DOCTYPE html>
 	<?php include 'onTourHeader.php' ?>
 
 
-<div id="main">
+<div id="mainArea">
 <!--
 	<div id="leftBar">
 		<div id="leftItem">
