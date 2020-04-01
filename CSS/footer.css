@@ -9,7 +9,7 @@
 }
 
 #footer .footer-content {
-    height: 20%;
+    height: 15%;
     
 }
 
@@ -22,9 +22,6 @@
 }
 
 /* Footer Links */
-.footer-links {
-    margin-top: 5px;
-}
 .footer-links a{
    display: inline-block;
 }
