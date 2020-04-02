@@ -43,21 +43,20 @@
                     <li>Address stereotypes in computer science</li>
                 </ul>
             </div>
-		</section>
-        <h3 id= "h2toh1">Preparing for a visit is easy!</h3>
-	</article>
-    <article>
-        	<h2>High School Preparation: </h2>
+        <br>
+        <h2>High School Preparation: </h2>
             <div class = "bullets">
-				<ul>
+                <ul>
                     <li>Have students brainstorm questions that they'd like to ask the presenters after the presentation. </li>
                     <ul>
                         <li>Ex: What is being a college student like? What was your favorite computer science project?</li>
                     </ul>
                     <li><a href="../php/visit.php">Request a visit</a></li>
-				</ul> 
-				</div>
-		<p> Our team will bring copies and all lesson materials to your classroom. In general, not much preparation is necessary on the teacher's end.</p>
+                </ul> 
+            </div>
+<!--		<p> Our team will bring copies and all lesson materials to your classroom. In general, not much preparation is necessary on the teacher's end.</p>-->
+		</section>
+        
 	</article>
 	</div>
 </body>

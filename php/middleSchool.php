@@ -31,30 +31,28 @@
 
 	<article>
 		<section>
-		<h2>Our team will guide student exploration by presenting CS Unplugged lessons that cover the following:</h2>
-			<div class="bullets">
+            <h2>Our team will guide student exploration by presenting CS Unplugged lessons that cover the following:</h2>
+                <div class="bullets">
+                    <ul id="bullets">
+                        <li>Engage middle school students with games
+                            and puzzles that teach computer science
+                            concepts (CS Unplugged activities)</li>
+                        <li>Introduce students to computational thinking</li>
+                        <li>Recommended topics: Cryptography, Advanced Binary, and Image Representation</li>
+                    </ul>
+                </div>
+            <br>
+            <h2>Middle School Preparation: </h2>
+            <div class = "bullets">
                 <ul id="bullets">
-                    <li>Engage middle school students with games
-                        and puzzles that teach computer science
-                        concepts (CS Unplugged activities)</li>
-                    <li>Introduce students to computational thinking</li>
-                    <li>Recommended topics: Cryptography, Advanced Binary, and Image Representation</li>
+                    <li>Be sure that students are equipped with pencils</li>
+                    <li>Plan to be in the room during the presentation</li>
+                    <li>Select a <a href="http://csunplugged.mines.edu/resources.html" target="_blank">Lesson Plan!!</a>
+                    <li><a href="../php/visit.php">Request a visit</a></li>
                 </ul>
             </div>
 		</section>
-        <h3 id= "h2toh1">Preparing for a visit is easy!</h3>
 	</article>
-    <article>
-			<h2>Middle School Preparation: </h2>
-				<div class = "bullets">
-				<ul id="bullets">
-					<li>Be sure that students are equipped with pencils</li>
-					<li>Plan to be in the room during the presentation</li>
-					<li>Select a <a href="http://csunplugged.mines.edu/resources.html" target="_blank">Lesson Plan!!</a>
-                    <li><a href="../php/visit.php">Request a visit</a></li>
-				</ul>
-            </div>
-    </article>
     </div>
 </body>
 
