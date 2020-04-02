@@ -12,11 +12,11 @@
 <body id="body" class="light-mode">  
   
     <div class="class-buttons" id="homepage">
-	<button onClick="window.location.href = 'highSchool.php';"
+	<button onClick="window.location.href = '../php/highSchool.php';"
 		id="high-school">High<br>School</button>
-	<button onClick="window.location.href = 'middleSchool.php';"
+	<button onClick="window.location.href = '../php/middleSchool.php';"
 		id="middle-school">Middle<br>School</button>
-	<button onClick = "window.location.href = 'elementarySchool.php';"
+	<button onClick = "window.location.href = '../php/elementarySchool.php';"
 		id="elementary-school">Elementary<br>School</button>
 </div>
 </body>
