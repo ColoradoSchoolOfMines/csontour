@@ -61,6 +61,10 @@ article a{
 	color: white;
 }
 
+img{
+    object-fit: contain;
+}
+
 .quote{
 	text-align: left;
 }
