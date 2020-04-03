@@ -21,7 +21,7 @@
     			<span class="border"></span>
     		<div class="ps">
     			
-    			<a href="#mCox"> <img class="personPicture" src="../images/morgan.jpeg" alt="morgan"></a>
+    			<a href="#mCox"> <img class="personPicture" src="../images/morgan.JPG" alt="morgan"></a>
     			<a href="#jSchmerge"> <img class="personPicture" src="../images/jSchmerge.png" alt="Jordan"> </a>
     			<a href="#aEstrada"> <img class="personPicture" src="../images/aEstrada.jpg" alt="Adrian"> </a>
     			<a href="#aLangfield"> <img class="personPicture" src="../images/aLangfield.jpg" alt="aLangfield"> </a>
