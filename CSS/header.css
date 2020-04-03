@@ -37,12 +37,14 @@
 /*Title bar style*/
 
 .nav-bar .current {
-    background-color: aliceblue;
+    background-color: #00CE49;
+    color: #263F6A;
 }
 
 .nav-bar {
 	overflow: hidden;
 	background-color: #263F6A;
+    color: #00CE49;
     align-content: center;
 }
 
