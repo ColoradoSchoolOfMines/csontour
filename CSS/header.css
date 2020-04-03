@@ -42,7 +42,7 @@
 
 .nav-bar {
 	overflow: hidden;
-	background-color: #00CE49;
+	background-color: #263F6A;
     align-content: center;
 }
 
@@ -76,7 +76,7 @@
 }
 
 .nav-bar a:hover {
-	background-color: #263F6A;
+	background-color: #00CE49;
 	color: #00CE49;
 }
 
