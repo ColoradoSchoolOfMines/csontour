@@ -42,8 +42,6 @@ facts on the occupational outlook for computer science”
 			</p>
 		</section>
         
-        <div><a href="#team"> <img src="../images/team2.jpg" alt="team picture"> </a></div>
-
 	</article>
 
 </body>
