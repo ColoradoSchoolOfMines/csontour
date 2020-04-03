@@ -41,6 +41,8 @@ facts on the occupational outlook for computer science”
 			When asked “Would you recommend CS@Mines On Tour to other teachers?”, 100% of teachers said yes!
 			</p>
 		</section>
+        
+        <a href="#team"> <img class="personPicture" src="../images/team2.jpg" alt="team picture"> </a>
 
 	</article>
 
