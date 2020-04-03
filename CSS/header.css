@@ -26,13 +26,6 @@
     position: -1;
 }
 
-#title {
-	position: relative;
-    color: red;
-    align-content: center;
-    display: none;
-}
-
 
 /*Title bar style*/
 
@@ -44,13 +37,12 @@
 .nav-bar {
 	overflow: hidden;
 	background-color: #263F6A;
-    color: #00CE49;
     align-content: center;
 }
 
 .nav-bar a {
 	display: inline-block;
-	color: black;
+	color: #00CE49;
 	padding: 12px 16px;
 
 	margin: 5px;
